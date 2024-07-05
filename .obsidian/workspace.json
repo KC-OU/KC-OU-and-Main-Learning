@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "d26b87537d45a73b",
+    "type": "split",
+    "children": [
+      {
+        "id": "58205002b6421c8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7a922aab181bca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Page - OU and Main Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6296aaa54f409770",
+    "type": "split",
+    "children": [
+      {
+        "id": "716961041d73a5de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efdf674107e9cfce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9673b26c71582b6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "966d58bd1f248eca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da716d07f2d0c6c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e0de437b3a54ae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6d7c8d9139335af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main Page - OU and Main Learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84843a6f4e10221b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Main Page - OU and Main Learning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f9fc31a197f0b2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "763f77de065fcebc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Main Page - OU and Main Learning.md"
+              }
+            }
+          },
+          {
+            "id": "4e6ae1dbca9949de",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ac144e1b138e35a",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6e5dba9c9b28526",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "795aa54305d6d962",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-custom-frames:Open Obsidian Forum": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "dbfolder:Create a new database table": false,
+      "hide-folders:Show hidden folders": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "obsidian-projects:Open projects": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "d7a922aab181bca2",
+  "lastOpenFiles": [
+    "Main Page - OU and Main Learning.md",
+    "KC Main Learning - Vault.md",
+    "The Cyber Vault.md",
+    "Curentr LEARNING.md",
+    "PEN-200/TryHackMe - OSCP - Learning/Vulnversity.md",
+    "Assets/Pasted image 20240511171642.png",
+    "Assets/img/OSCP/Pasted image 20240511171523.png",
+    "Assets/img/OSCP/Pasted image 20240511170429.png",
+    "Assets/img/OSCP/Pasted image 20240511170028.png",
+    "Assets/img/OSCP/Pasted image 20240511165625.png",
+    "Assets/img/OSCP/Pasted image 20240511165939.png",
+    "Assets/Images/Vulnversity-20240511165128050.webp",
+    "Assets/Images",
+    "PEN-200/TryHackMe - OSCP - Learning/Tutorial.md",
+    "PEN-200/TryHackMe - OSCP - Learning/TryHackMe - OSCP - Learning.md",
+    "Assets/img/current-learning.jpg",
+    "Assets/img/CPTS/CPTS-logo.png",
+    "Assets/img/THM/portal-picklerick.png",
+    "PEN-200/PEN-200 - Penetration Testing with Kali Linux.md",
+    "PEN-200/TryHackMe - OSCP - Learning",
+    "Assets/img/CPTS",
+    "Assets/img/OSCP",
+    "Assets/img/THM",
+    "PEN-200",
+    "Certs",
+    "Assets/pdf/GitDock-0.1.31.exe",
+    "Assets/pdf/Unconfirmed 746981.crdownload",
+    "Assets/pdf/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf",
+    "Learning/AWS Certified Cloud Practitioner (CLF-C02).md",
+    "Kieran Collins OU & Cyber Security.md",
+    "Welcome.md"
+  ]
+}
